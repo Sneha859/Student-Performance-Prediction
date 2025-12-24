@@ -4,6 +4,10 @@ This project predicts whether a student will **PASS or FAIL** based on study hou
 
 ---
 
+## 🔗 Live Demo
+https://student-performance-prediction-aduen6k8zmqkkbybbmd28.streamlit.app
+
+
 ## 🚀 Tech Stack
 - Python  
 - Pandas, NumPy  
